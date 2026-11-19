@@ -2,7 +2,7 @@
 //
 // Entry program for the make.fun news-image-20261119 competition.
 // The artwork is a single pre-rendered front page (entry.png, 1024x1024,
-// 196,834 bytes) drawn with real typography, so every headline is crisp
+// 203,352 bytes) drawn with real typography, so every headline is crisp
 // and legible at judging size. This program copies that image, byte for
 // byte, to the output directory the grader provides.
 //
